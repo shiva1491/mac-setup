@@ -23,7 +23,7 @@ brew install --cask beyond-compare
 
 # Source code repository
 brew install git
-brew install --cask sourcetree
+brew install --cask github
 
 # Collaboration
 brew install --cask microsoft-teams zoom

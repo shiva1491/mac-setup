@@ -21,6 +21,9 @@ brew install --cask visual-studio-code
 # Comparator
 brew install --cask beyond-compare
 
+# REST API testing tool
+brew install --cask postman
+
 # Source code repository
 brew install git
 brew install --cask github
